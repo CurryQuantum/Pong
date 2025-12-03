@@ -1,3 +1,7 @@
+
+//  Class author:  ernest pedregosa delserieys
+//  Date created:  12/03/2025
+//  General description: This class contains the main game logic for a simple Pong game.
 package com.pong;
 
 import javax.swing.*;
